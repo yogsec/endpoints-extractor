@@ -3,6 +3,8 @@
 ## Overview
 The **Endpoints Extractor by YogSec** is a Bash script designed to extract URLs and API endpoints from the HTML, JavaScript, and JSON content of web pages. This tool is useful for security researchers, bug bounty hunters, and developers looking to identify exposed endpoints within their applications.
 
+![endpoints](https://github.com/yogsec/endpoints-extractor/blob/main/endpoints-extractor.jpeg)
+
 ---
 
 ## Features
@@ -93,7 +95,23 @@ Developed by **YogSec** for extracting and analyzing web endpoints efficiently.
 
 ---
 
-## Support & Contact 📬  
-- **LinkedIn Profile:** [Bug Bounty Hunter](https://www.linkedin.com/in/bug-bounty-hunter/)  
-- **Donations:** If you find this cheat sheet useful, consider supporting my work via [BuyMeACoffee](https://buymeacoffee.com/yogsec).  
-- **Email:** For inquiries, you can reach me at [abhinavsingwal@gmail.com](mailto:abhinavsingwal@gmail.com).
+## 🌟 Let's Connect!
+
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/bug-bounty-hunter/](https://www.linkedin.com/in/bug-bounty-hunter/)  
+📧 **Email:** abhinavsingwal@gmail.com
+
+---
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
