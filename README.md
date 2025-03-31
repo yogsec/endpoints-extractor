@@ -2,6 +2,12 @@
 
 ## Overview
 The **Endpoints Extractor by YogSec** is a Bash script designed to extract URLs and API endpoints from the HTML, JavaScript, and JSON content of web pages. This tool is useful for security researchers, bug bounty hunters, and developers looking to identify exposed endpoints within their applications.
+
+
+![endpoints](https://github.com/yogsec/endpoints-extractor/blob/main/endpoints-extractor.jpeg)
+
+<br>
+
 <div align="center">
       <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
   <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
@@ -13,9 +19,6 @@ The **Endpoints Extractor by YogSec** is a Bash script designed to extract URLs 
   
 </div>
 <br>
-
-
-![endpoints](https://github.com/yogsec/endpoints-extractor/blob/main/endpoints-extractor.jpeg)
 
 ---
 
